@@ -147,3 +147,4 @@ wiki
 zabbix
 zimbra
 zipkin
+Get-ADUser -Filter * -Properties SID,SamAccountName,name,Department,Title,mail,Description,lastlogonDate,PasswordLastSet,PasswordNeverExpires,EmployeeID,MemberOf | Select-Object SID,SamAccountName,name,Department,Title,mail,Description,lastlogonDate,PasswordLastSet,PasswordNeverExpires,EmployeeID, @{N="Memberof";E={$_.Memberof -join ","}} | Export-Csv -Path .\ADUser-Report.csv
