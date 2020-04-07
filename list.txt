@@ -152,3 +152,8 @@ Get-ADUser -Filter * -Properties SID,SamAccountName,name,Department,Title,mail,D
 $Search = Read-Host 'What number would you like to search for?'
 
 Get-AdUser -Filter * -Properties GivenName,Surname,Department,Description,TelephoneNumber |Where-Object {$_.TelephoneNumber -match $Search} |Format-Table GivenName,Surname,Department,Description,TelephoneNumber
+
+https://guif.re/bo
+https://exchange.xforce.ibmcloud.com/
+https://cybersecurity.att.com/open-threat-exchange
+https://app.threatconnect.com/auth/index.xhtml#/
