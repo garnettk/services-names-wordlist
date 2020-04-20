@@ -157,3 +157,5 @@ https://guif.re/bo
 https://exchange.xforce.ibmcloud.com/
 https://cybersecurity.att.com/open-threat-exchange
 https://app.threatconnect.com/auth/index.xhtml#/
+
+https://www.vladan.fr/how-to-setup-nested-vsphere-lab-on-a-pc-by-using-vmware-workstation/
