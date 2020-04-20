@@ -160,3 +160,4 @@ https://app.threatconnect.com/auth/index.xhtml#/
 
 https://www.vladan.fr/how-to-setup-nested-vsphere-lab-on-a-pc-by-using-vmware-workstation/
 https://pubs.vmware.com/vsphere-50/topic/com.vmware.ICbase/PDF/vsphere-esxi-vcenter-server-50-basics-guide.pdf
+https://wiki.lib.sun.ac.za/images/c/ca/TLCL-13.07.pdf
