@@ -163,3 +163,5 @@ https://pubs.vmware.com/vsphere-50/topic/com.vmware.ICbase/PDF/vsphere-esxi-vcen
 https://wiki.lib.sun.ac.za/images/c/ca/TLCL-13.07.pdf
 
 https://pkisolutions.com/media/Top-10-PKI-Deployment-Mistakes.pdf
+
+https://www.vortex.id.au/2017/05/pwkoscp-stack-buffer-overflow-practice/
