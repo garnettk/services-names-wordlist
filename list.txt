@@ -172,3 +172,6 @@ https://www.icsi.co.uk/courses/icsi-cnss-certified-network-security-specialist-c
 Coupon: #StaySafeHome
 
 https://www.volexity.com/wp-content/uploads/2020/04/Volexity-Cyber-Session-September-2019-Windows10DFIR.pdf
+
+
+https://identityaccessdotmanagement.files.wordpress.com/2019/12/ad-security-fundamentals-1.pdf
