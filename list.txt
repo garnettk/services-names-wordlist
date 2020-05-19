@@ -177,3 +177,7 @@ https://www.volexity.com/wp-content/uploads/2020/04/Volexity-Cyber-Session-Septe
 https://identityaccessdotmanagement.files.wordpress.com/2019/12/ad-security-fundamentals-1.pdf
 
 https://www.blackhat.com/docs/us-16/materials/us-16-Metcalf-Beyond-The-MCSE-Active-Directory-For-The-Security-Professional-wp.pdf
+
+splunk
+
+ir6st@tEXD@Teuv
