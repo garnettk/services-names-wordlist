@@ -200,3 +200,5 @@ https://rate.amcm.gov.mo/themes/amcm/js/vendor/jquery-1.11.0.min.js
 
 
 http://visionbecomestrue.blogspot.com/
+
+https://blog.knownsec.com/Knownsec_RD_Checklist/index.html
