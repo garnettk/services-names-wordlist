@@ -228,3 +228,9 @@ bWNtcHJ0Z2FkbWluJywncGFzc2hhc2gnOicyNjYzODM2MTUxJ30NCiAgICAgICAg
 ciA9IHJlcXVlc3RzLmdldCgiaHR0cHM6Ly9wcnRnLXN2ci9hcGkvcGF1c2UuaHRt
 IiwgcGFyYW1zPXBheWxvYWQsIHZlcmlmeT1GYWxzZSkNCiAgICAgICAgcHJpbnQo
 ci51cmwpDQogICAgICAgIHByaW50KHIuY29udGVudCk=
+
+
+
+
+
+https://www.cisco.com/c/en/us/products/collateral/switches/nexus-7000-series-switches/white-paper-c11-737022.pdf
