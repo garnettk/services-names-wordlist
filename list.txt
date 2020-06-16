@@ -253,3 +253,6 @@ https://www.hsbcnet.com/-/media/hsbcnet/attachments/products-services/transactio
 
 
 https://report.nat.gov.tw/ReportFront/PageSystem/reportFileDownload/C10200271/001
+
+
+https://www.sevenlayers.com/index.php/348-tryhackme-gatekeeper-walkthrough
