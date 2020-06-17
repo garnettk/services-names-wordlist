@@ -265,3 +265,6 @@ https://www.nutanix.com/blog/how-nutanix-and-vsan-evo-rail-differ-on-management-
 
 
 https://www.trustradius.com/compare-products/nutanix-vs-vmware-vsan
+
+
+https://en.wikipedia.org/wiki/SWIFT_message_types
