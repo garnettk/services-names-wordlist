@@ -259,3 +259,9 @@ https://www.sevenlayers.com/index.php/348-tryhackme-gatekeeper-walkthrough
 
 
 https://www.ocft.com/
+
+
+https://www.nutanix.com/blog/how-nutanix-and-vsan-evo-rail-differ-on-management-and-design#:~:text=VSAN%20is%20directly%20plumbed%20into%20the%20compute%20cluster.&text=Nutanix%2C%20on%20the%20other%20hand,licensing%20of%20the%20compute%20layer.
+
+
+https://www.trustradius.com/compare-products/nutanix-vs-vmware-vsan
