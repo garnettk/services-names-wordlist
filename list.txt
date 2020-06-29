@@ -282,3 +282,19 @@ https://cps.hongkongpost.hk/registration/app/tc
 
 
 http://www.snailbook.com/faq/mtu-mismatch.auto.html
+
+
+
+1.) Administrator not renamed, Password Length (TBC)
+2.) Mac NB management?
+3.) Firewall Management
+4.) Change Management/Firewall Rule Management
+5.) EOL OS/System Softwares? (Windows 2008 R2 - January 14, 2020)
+6.) EMAIL SECURITY
+7.) DLP/Data Classification
+8.) Block IM/File Sharing 
+9.) block download VBS EXE BAT (except IT)
+10.) Documentation
+11.) Splunk - Log Source/Structure Design
+- Half of organizations who send logs to Splunk reduced troubleshooting/forensics time by more than 50% by using syslog-ng
+- Organizations using syslog-ng significantly reduced their Splunk data load by filtering out the irrelevant logs
