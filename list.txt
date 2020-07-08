@@ -298,3 +298,8 @@ http://www.snailbook.com/faq/mtu-mismatch.auto.html
 11.) Splunk - Log Source/Structure Design
 - Half of organizations who send logs to Splunk reduced troubleshooting/forensics time by more than 50% by using syslog-ng
 - Organizations using syslog-ng significantly reduced their Splunk data load by filtering out the irrelevant logs
+
+
+
+
+https://www.vontobelwarrants.com/tc/index
