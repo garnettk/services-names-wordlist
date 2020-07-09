@@ -303,3 +303,7 @@ http://www.snailbook.com/faq/mtu-mismatch.auto.html
 
 
 https://www.vontobelwarrants.com/tc/index
+
+
+
+https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.7966.pdf
