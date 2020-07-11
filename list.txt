@@ -307,3 +307,13 @@ https://www.vontobelwarrants.com/tc/index
 
 
 https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.7966.pdf
+
+https://www.dellemc.com/en-us/collaterals/unauth/technical-guides-support-information/products/storage-2/docu5126.pdf
+
+
+https://education.dellemc.com/content/emc/en-us/home/store/search.html?cs=PowerPath
+
+https://www.dellemc.com/en-us/collaterals/unauth/white-papers/products/storage/h12145-intro-new-vnx-series-wp.pdf
+
+https://unixhealthcheck.com/blog
+
