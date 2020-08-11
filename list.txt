@@ -337,3 +337,6 @@ https://en.wikipedia.org/wiki/Logistic_regression
 
 
 https://data.fivethirtyeight.com/
+
+
+https://noobsec.net/infosec-prep-oscp/
