@@ -340,3 +340,7 @@ https://data.fivethirtyeight.com/
 
 
 https://noobsec.net/infosec-prep-oscp/
+
+
+
+https://ethicalhacs.com/sneakymailer-hackthebox-walkthrough/
