@@ -344,3 +344,9 @@ https://noobsec.net/infosec-prep-oscp/
 
 
 https://ethicalhacs.com/sneakymailer-hackthebox-walkthrough/
+
+
+https://www.splunk.com/pdfs/training/Certify-in-Place-Promotion.pdf
+
+
+https://www.splunk.com/pdfs/training/Exam-Registration-Tutorial.pdf
