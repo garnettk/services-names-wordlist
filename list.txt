@@ -350,3 +350,5 @@ https://www.splunk.com/pdfs/training/Certify-in-Place-Promotion.pdf
 
 
 https://www.splunk.com/pdfs/training/Exam-Registration-Tutorial.pdf
+
+https://kb.paessler.com/en/topic/1123-how-do-i-move-a-prtg-probe-from-one-pc-to-another
