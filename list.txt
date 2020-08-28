@@ -355,3 +355,6 @@ https://kb.paessler.com/en/topic/1123-how-do-i-move-a-prtg-probe-from-one-pc-to-
 
 
 http://insec.in/2020/07/15/hack-the-box-sneakymailer-walkthrough/
+
+
+https://offsec.tehwinsam.com/
