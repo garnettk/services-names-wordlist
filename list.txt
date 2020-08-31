@@ -358,3 +358,6 @@ http://insec.in/2020/07/15/hack-the-box-sneakymailer-walkthrough/
 
 
 https://offsec.tehwinsam.com/
+
+
+https://helpx.adobe.com/manage-account/kb/stop-creative-cloud-trial-mode-after-purchase.html
