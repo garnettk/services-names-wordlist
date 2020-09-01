@@ -370,3 +370,9 @@ https://www.sehuatang.org/thread-384207-1-1.html
 
 
 https://www.nutanixuniversity.com/pages/29/ncp-exam
+
+https://next.nutanix.com/blog-40/part-i-how-to-setup-a-three-node-nuc-nutanix-ce-cluster-15257
+
+https://next.nutanix.com/homelab-setup-42/2-node-homelab-supermicro-5028d-tn4t-26895
+
+https://hyperhci.com/2019/05/06/nutanix-ce-home-lab/
