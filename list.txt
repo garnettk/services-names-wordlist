@@ -388,3 +388,6 @@ aW1wb3J0IHJlcXVlc3RzCmltcG9ydCBhcmdwYXJzZQoKcGFyc2VyPWFyZ3BhcnNlLkFyZ3VtZW50UGFy
 
 
 https://tomcat.apache.org/tomcat-9.0-doc/ssl-howto.html
+
+
+https://jee-appy.blogspot.com/2017/02/ssl-certificate-setup-tomcat.html
