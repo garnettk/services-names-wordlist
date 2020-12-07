@@ -1,0 +1,47 @@
+import requests
+import argparse
+import os
+import datetime
+from csv_diff import load_csv, compare
+import json
+
+today= datetime.date.today()
+previous_filetimestamp= str(today.year)+ str(today.month) + str(today.day)
+previous_filename= 'PRTG_sensors_'+ str(previous_filetimestamp) + ".csv"
+
+#if os.path.exists('PRTG_sensors_current.csv'):
+#	os.rename('PRTG_sensors_current.csv', previous_filename)
+
+payload = {'content': 'sensors', 'output': 'csvtable','columns': 'objid,probe,group,device,sensor,status,message,lastvalue,priority,favorite,tags','id':'$StartingID','count':'4000','username':'amcmprtgadmin','passhash':'2663836151'}
+#r = requests.get("https://172.18.1.18/api/table.xml", params=payload, verify=False)
+#print(r.content)
+
+#with open('PRTG_sensors_current.csv','wb') as f:
+#		f.write(r.content)
+
+
+
+
+
+from csv_diff import load_csv, compare
+diff = compare(
+	load_csv(open('PRTG_sensors_current.csv',"r",encoding='utf-8'), key='ID'),
+	load_csv(open(previous_filename,"r",encoding='utf-8'), key='ID')
+)
+
+
+print(diff)
+
+diff_result = json.load(diff)
+
+
+
+
+
+
+
+
+
+
+
+# https://172.18.1.18/api/table.xml?content=sensors&output=xml&columns=objid,probe,group,device,sensor,status,message,lastvalue,priority,favorite,tags&id=$StartingID&count=4000&username=amcmprtgadmin&passhash=2663836151
