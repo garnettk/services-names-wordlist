@@ -1,0 +1,49 @@
+340a341,388
+>     <objid>4767</objid>
+>     <probe>(Remote Probe) Data</probe>
+>     <group>RTGS Client Network</group>
+>     <device>M3F-SWA-RTG01</device>
+>    </item>
+>    <item>
+>     <objid>4768</objid>
+>     <probe>(Remote Probe) Data</probe>
+>     <group>RTGS Client Network</group>
+>     <device>M4F-SWA-RTG01</device>
+>    </item>
+>    <item>
+>     <objid>4769</objid>
+>     <probe>(Remote Probe) Data</probe>
+>     <group>RTGS Client Network</group>
+>     <device>M4F-SWA-RTG01</device>
+>    </item>
+>    <item>
+>     <objid>4770</objid>
+>     <probe>(Remote Probe) Data</probe>
+>     <group>RTGS Client Network</group>
+>     <device>M4F-SWA-RTG01</device>
+>    </item>
+>    <item>
+>     <objid>4771</objid>
+>     <probe>(Remote Probe) Data</probe>
+>     <group>RTGS Client Network</group>
+>     <device>M4F-SWA-RTG01</device>
+>    </item>
+>    <item>
+>     <objid>4772</objid>
+>     <probe>(Remote Probe) Data</probe>
+>     <group>RTGS Client Network</group>
+>     <device>M4F-SWA-RTG01</device>
+>    </item>
+>    <item>
+>     <objid>4774</objid>
+>     <probe>(Remote Probe) Data</probe>
+>     <group>RTGS Client Network</group>
+>     <device>M4F-SWA-RTG01</device>
+>    </item>
+>    <item>
+>     <objid>4775</objid>
+>     <probe>(Remote Probe) Data</probe>
+>     <group>RTGS Client Network</group>
+>     <device>MCR-SWD-RTG01</device>
+>    </item>
+>    <item>
