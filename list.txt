@@ -424,3 +424,5 @@ https://webb-site.com/dbpub/webbchips.asp
 https://blog.bi0s.in/2020/02/09/Forensics/HackTM-FindMyPass/
 
 https://www.ired.team/offensive-security-experiments/active-directory-kerberos-abuse/abusing-active-directory-acls-aces
+
+https://research.ark-invest.com/hubfs/1_Download_Files_ARK-Invest/White_Papers/ARK%E2%80%93Invest_BigIdeas_2021.pdf
