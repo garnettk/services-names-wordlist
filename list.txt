@@ -33,8 +33,6 @@ dokuwiki
 elastic
 elasticsearch
 email
-_qnt
-_5J_B78C__6T
 fabric
 findbugs
 ganglia
